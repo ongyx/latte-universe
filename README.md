@@ -29,8 +29,7 @@ repo to your Latte config by running the
 code below in StaSh:
 
 ```
-latte add-repo 
-https://raw.githubusercontent.com/sn3ksoftware/lattepkgs
+latte add-repo https://raw.githubusercontent.com/sn3ksoftware/lattepkgs
 ```
 
 and you'll be all set!

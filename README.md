@@ -1,25 +1,6 @@
-# Welcome to Latte!
-
-Latte is a package distribution system for 
-[StaSh](https://github.com/ywangd/stash), 
-a command-line interface for the 
-[Pythonista](http://omz-software.com/pythonista/) 
-Python IDE.
-
-Latte was originally conceived and coded 
-by [Seanld](https://github.com/Seanld) as 
-a way to easily share scripts made by the 
-Pythonista community to other users of 
-StaSh and Pythonista in general. My fork 
-is an attempt to:
-
-- [ ] Add more advanced features to Latte, 
-i.e package search, support for 
-internal/external dependencies
-- [ ] Revive the Latte documentation 
-(Seanld's website is down...)
-- [ ] Keep it less convulated than StaSh's 
-current pip implementation. 
+# Welcome to latte-universe!
+Latte is a simple package manager written in Python that lets [Pythonista](https://omz-software.com/pythonista) and [StaSh](https://github.com/ywangd/stash) users share their Python scripts and packages of intrest quickly.
+Go to the main Latte [repo](https://github.com/sn3ksoftware/latte) for more infomation.
 
 ## What is this repository for?
 
@@ -29,7 +10,7 @@ repo to your Latte config by running the
 code below in StaSh:
 
 ```
-latte add-repo https://raw.githubusercontent.com/sn3ksoftware/lattepkgs
+latte add-repo https://raw.githubusercontent.com/sn3ksoftware/latte-universe/master
 ```
 
 and you'll be all set!

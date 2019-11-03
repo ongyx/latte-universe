@@ -15,6 +15,12 @@ latte add-repo https://raw.githubusercontent.com/sn3ksoftware/latte-universe/mas
 
 and you'll be all set!
 
+## What are these _.latte_ files for?
+
+`.latte` files contain metadata for Latte packages and repositories.
+They are written in a way similar to [ConfigParser](https://docs.python.org/3/library/configparser.html)
+(with keys/values delimited by `=` signs).
+
 ## P.S
 
 At the time of this commit, it is not 
